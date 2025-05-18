@@ -1,0 +1,13 @@
+{
+  "name": "appointment-management-saas",
+  "version": "1.0.0",
+  "description": "Hizmet sektörü için SaaS randevu yönetim sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker-compose up",
+    "dev": "docker-compose up -d",
+    "stop": "docker-compose down"
+  },
+  "author": "",
+  "license": "ISC"
+}
